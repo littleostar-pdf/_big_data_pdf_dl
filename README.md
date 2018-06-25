@@ -16,15 +16,15 @@
 
 ###### 快学Scala 第1版 (1)
 
-> [part1]()
+> [part1](https://github.com/dzet-pdf/_big_data_pdf_dl/raw/master/file/Scala-for-the-Impatient_1th_402P_36M.rar)
 
 ###### spark大数据处理技术 (1)
 
-> [part1]()
+> [part1](https://github.com/dzet-pdf/_big_data_pdf_dl/raw/master/file/spark_dsj_cljs-355p-48m.rar)
 
 ###### spark快速数据处理 (1)
 
-> [part1]()
+> [part1](https://github.com/dzet-pdf/_big_data_pdf_dl/raw/master/file/spark_ks_sjcl-134p-17m.rar)
 
 
 
